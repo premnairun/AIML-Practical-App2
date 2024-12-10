@@ -94,5 +94,4 @@ Multiple machine learning models were implemented to predict used car prices lik
 
 •	Insights: AdaBoost significantly outperformed all other models, demonstrating its ability to capture complex, nonlinear relationships.
 
-## The best alternative to predict the prices for used cars is AdaBoost Regressor, a report reveals. The method can better explain pricing variability and is more accurate, which is a plus when dealing with used car salesmen.
-
+## The best option to predict the prices for used cars is AdaBoost Regressor. The method can better explain pricing variability and is more accurate, which is an advantage when dealing with used car sales.
